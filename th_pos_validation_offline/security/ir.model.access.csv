@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_revesto_pos_validation_offline_revesto_pos_validation_offline,revesto_pos_validation_offline.revesto_pos_validation_offline,model_revesto_pos_validation_offline_revesto_pos_validation_offline,base.group_user,1,1,1,1
